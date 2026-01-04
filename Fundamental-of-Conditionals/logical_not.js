@@ -9,9 +9,6 @@
  */ 
 
 
-
-
-
 let is_leader = false;
 
 if (is_leader) {
