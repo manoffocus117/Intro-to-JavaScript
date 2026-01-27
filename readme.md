@@ -7,16 +7,16 @@
 4. <a href="./Fundamental-of-Loops/">fundamental of loops</a>
 
 ### practice task : 
-1. <a href="./Intro-to-JavaScript/practice_task/">intro to javascript</a>
-2. <a href="./Fundamental-of-Conditionals/practice_task/">fundamental of conditional</a>
-3. <a href="./Fundamental-of-Array/practice_task/">fundamental of array</a>
-4. <a href="./Fundamental-of-Loops/practice_task/">fundamental of loops</a>
+1. <a href="./Intro-to-JavaScript/practice-task/">intro to javascript</a>
+2. <a href="./Fundamental-of-Conditionals/practice-task/">fundamental of conditional</a>
+3. <a href="./Fundamental-of-Array/practice-task/">fundamental of array</a>
+4. <a href="./Fundamental-of-Loops/practice-task/">fundamental of loops</a>
 
 ### practice task solution : 
-1. <a href="./Intro-to-JavaScript/practice_task_solution/">intro to javascript : solution</a>
-2. <a href="./Fundamental-of-Conditionals/practice_task_solution/">fundamental of conditional : solution</a>
-3. <a href="./Fundamental-of-Array/practice_task_solution/">fundamental of array : solution</a>
-4. <a href="./Fundamental-of-Loops/practice_task_solution/">fundamental of loops : solution</a>
+1. <a href="./Intro-to-JavaScript/practice-task-solution/">intro to javascript : solution</a>
+2. <a href="./Fundamental-of-Conditionals/practice-task-solution/">fundamental of conditional : solution</a>
+3. <a href="./Fundamental-of-Array/practice-task-solution/">fundamental of array : solution</a>
+4. <a href="./Fundamental-of-Loops/practice-task-solution/">fundamental of loops : solution</a>
 
 
 ## Contributing
