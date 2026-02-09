@@ -1,3 +1,6 @@
+// step 1. declare a string variable
+let string = "i am a hardworking person";
+
 // step 2. declare a function with a parameter 
 function word_length (string) {
       // step 3. split the string 
@@ -17,9 +20,6 @@ function word_length (string) {
       // step 8 return the longest word variable
       return longest_word;
 }
-
-// step 1. declare a string variable
-let string = "i am a hardworking person";
 
 // word_length(string);
 
